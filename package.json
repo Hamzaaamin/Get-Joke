@@ -1,0 +1,15 @@
+{
+  "name": "get-joke-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal MCP server that returns a random programming joke.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test:mcp": "node test-client.js"
+  }
+}
