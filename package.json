@@ -1,10 +1,14 @@
 {
-  "name": "get-joke-mcp",
+  "name": "@hamzaaamin/get-joke-mcp",
   "version": "0.1.0",
-  "private": true,
+  "mcpName": "io.github.hamzaaamin/get-joke",
   "type": "module",
   "description": "Minimal MCP server that returns a random programming joke.",
-  "license": "UNLICENSED",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hamzaaamin/Get-Joke.git"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.1"
   },
