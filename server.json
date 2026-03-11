@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.hamzaaamin/get-joke",
+  "name": "io.github.Hamzaaamin/get-joke",
   "description": "Minimal MCP server that returns a random programming joke.",
   "repository": {
     "url": "https://github.com/Hamzaaamin/Get-Joke",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "npm",
-      "identifier": "@hamzaaamin/get-joke-mcp",
-      "version": "0.1.0",
+      "identifier": "@hamzaamin221/get-joke-mcp",
+      "version": "0.1.1",
       "transport": { "type": "stdio" }
     }
   ]
