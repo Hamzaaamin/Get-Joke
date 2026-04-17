@@ -28,7 +28,7 @@ const server = new Server(
   },
   {
     // The SDK uses this to validate message shapes.
-    capabilities: { tools: {} },
+    capabilitiescapabilities: { tools: {} },
   },
 );
 
